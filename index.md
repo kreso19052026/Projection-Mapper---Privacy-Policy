@@ -1,27 +1,42 @@
-Privacy Policy for Projection Mapper
+# Privacy Policy for Projection Mapper
 
-Last updated: 2026-07-07
+Last updated: 2026-10-02
 
-Projection Mapper ("the app") does not collect, store, or transmit any
-personal data to its developer. Projects, shapes, and media you create are
-stored locally on your device only.
+Projection Mapper ("the app") is developed by Kozo Technology. This policy
+explains what data the app and its advertising partner handle.
 
-The app uses the following third-party services, which may collect data
-under their own privacy policies:
+## Data stored on your device
+Projects, shapes, patterns, settings and media you create or import are stored
+locally on your device only. The app does not send them to the developer or
+anyone else. Uninstalling the app deletes this data.
 
-- Google AdMob (rewarded ads): may collect advertising identifiers, device
-  information, and ad interaction data to serve and measure ads.
-  See Google's Privacy Policy: https://policies.google.com/privacy
+## Advertising
+This app shows rewarded ads served by Google AdMob. AdMob may collect your
+device's advertising ID, IP address (used for approximate location), device and
+operating-system information, and ad interaction data to serve and measure
+ads. See how Google uses this information:
+https://policies.google.com/technologies/partner-sites
 
-- Google Play Billing (subscriptions): purchase and subscription information
-  is processed by Google Play.
-  See Google Play's Privacy Policy: https://policies.google.com/privacy
+## Advertising and your consent
+**European Economic Area, UK and Switzerland:** on first launch the app asks
+for your consent through Google's certified consent management platform.
+Personalised ads are shown only if you consent; otherwise you may see limited,
+non-personalised ads.
 
-This app does not knowingly collect data from children under 13 and is not
-directed at children.
+**United States:** if you live in a US state with a consumer privacy law
+(such as California), you can opt out of the sale or sharing of your personal
+information for targeted advertising in **Settings → Privacy options**.
 
-Questions about this policy can be sent to: kresimir30071993@gmail.com
-(replace with your preferred support address if different).
+**Change your choice at any time:** open the app's **Settings → Privacy
+options** to change or withdraw your consent.
 
-This policy may be updated at any time; continued use of the app after a
-change constitutes acceptance of the updated policy.
+## Children
+This app is not directed at children under 13 and does not knowingly collect
+data from them.
+
+## Changes to this policy
+We may update this policy from time to time. Changes are posted on this page
+with a new "Last updated" date.
+
+## Contact
+Questions about this policy: kozo.technology@gmail.com
